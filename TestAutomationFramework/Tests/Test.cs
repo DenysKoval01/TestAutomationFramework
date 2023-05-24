@@ -4,7 +4,6 @@ using TestAutomationFramework.Utilities;
 
 namespace TestAutomationFramework.Tests
 {
-    //[AllureNUnit]
     public class Test : BaseTest
     {
         const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
